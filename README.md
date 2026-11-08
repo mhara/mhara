@@ -1,16 +1,36 @@
-## Hi there 👋
+# 原 誠 (Makoto Hara / @mhara)
 
-<!--
-**mhara/mhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+合同会社サクラダファミリー 代表社員 / ITエンジニア
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 概要 (About)
+
+オープンソース、セルフホスト、データ主権を重視するITエンジニア。  
+データベース設計・パフォーマンスチューニング、クラウドインフラ構築（OCI / AWS）およびアグリテック事業の創業・システム構築を経て、現在は水産・一次産業現場における環境モニタリングやシステムモデル化に取り組んでいます。
+
+---
+
+## 略歴 (Background)
+
+- **学歴**
+  - 北海道大学 水産学部 卒業
+  - 北海道大学大学院 地球環境科学研究科 修士課程修了
+- **職歴・事業**
+  - **AGRIBUDDY Ltd.** 共同創業（新興国向け農業支援プラットフォームの開発・システム構築）
+  - **合同会社サクラダファミリー** 代表社員
+  - フリーランス ITエンジニア（データベーススペシャリスト / インフラ・DBエンジニア）
+
+---
+
+## 関心・取り組み (Research Focus & Vision)
+
+- **陸上養殖環境の可視化・最適化**
+  - 陸上エビ養殖を主な事例とした、養殖環境の低コストモニタリング基盤の構築およびシステムモデル化の検討
+- **技術・ノウハウのオープンソース化**
+  - 特定のベンダーロックインを避け、システム設計データや運用ノウハウをオープンソースとして公開・共有することで、誰もが持続可能な環境を低コストで構築・運用できる社会実装型の開発
+
+---
+
+## Links
+- **Web:** [合同会社サクラダファミリー](https://mhara.github.io/sakurada-family-llc/)
