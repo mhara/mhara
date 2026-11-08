@@ -46,3 +46,4 @@
 ## リンク
 
 - **GitHub:** [合同会社サクラダファミリー](https://github.com/mhara/sakurada-family-llc)
+- **GitHub:** [prawn-aquaculture-lab](https://github.com/mhara/prawn-aquaculture-lab)（陸上エビ養殖における低コストIoTモニタリング、環境可視化、およびシステムモデル化のための研究ワークスペース ※Private: 共同研究者の方は個別で招待いたしますのでご連絡ください）
