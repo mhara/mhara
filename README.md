@@ -20,6 +20,9 @@
   - **AGRIBUDDY Ltd.** 共同創業（新興国向け農業支援プラットフォームの開発・システム構築）
   - **合同会社サクラダファミリー** 代表社員
   - フリーランス ITエンジニア（データベーススペシャリスト / インフラ・DBエンジニア）
+- **OSS コントリビューション**
+  - **[Sequel Pro](https://github.com/sequelpro/sequelpro)**（Mac向けMySQL GUIクライアント）日本語ローカライズ・翻訳提供
+  - **[BZFlag](https://www.bzflag.org/)**（3Dマルチプレイヤー戦車アクション）カスタムマップデータ提供
 
 ---
 
